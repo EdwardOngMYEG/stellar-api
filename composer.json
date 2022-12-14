@@ -1,5 +1,5 @@
 {
-    "name": "EdwardOngMYEG/stellar-api",
+    "name": "edwardongmyeg/stellar-api",
     "description": "API client for the Stellar network",
     "autoload": {
         "psr-4": {
