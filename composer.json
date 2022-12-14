@@ -1,5 +1,5 @@
 {
-    "name": "zulucrypto/stellar-api",
+    "name": "EdwardOngMYEG/stellar-api",
     "description": "API client for the Stellar network",
     "autoload": {
         "psr-4": {
