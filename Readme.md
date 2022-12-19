@@ -1,4 +1,6 @@
 ## Description
+Updates to work with Laravel 9. (ongoing).
+A forked repository from Zulucrypto/stellar-api. Pull Request are welcomed!
 
 PHP Library for interacting with the Stellar network.
 
